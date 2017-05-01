@@ -5,7 +5,7 @@ To used this plugin, You need installed Magebay Multi-Vendor first:
 
 Read more [Magento Multi Vendor](https://www.magebay.com/magento-multi-vendor-marketplace-extension)
 
-## Features of Magento Marketplace Custom Option Extension for Magento 2
+## Features of Magento Marketplace Product Custom Option Extension for Magento 2
 - Vendor can add custom option for their products.
 - Admin can easy to disable or enable this feature in backend settings
 - Allow Vendor can unlimited custom option for product.
